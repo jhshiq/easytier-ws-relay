@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 WS_PATH = "ws"
 EASYTIER_DISABLE_RELAY = "0"
 EASYTIER_COMPRESS_RPC = "1"
-LOCATION_HINT = "apac"
+LOCATION_HINT = "wnam"
 
 [durable_objects]
 bindings = [
